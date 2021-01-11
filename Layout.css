@@ -1,0 +1,122 @@
+.nav{
+  list-style-type:none;
+  position: absolute;
+  width: 220px;
+  height: 62px;
+  left: 739px;
+  top: 27px;
+}
+
+.navteam{
+  position: absolute;
+  width: 47px;
+  height: 62px;
+  left: 275px;
+  top: 27px;
+  font-family: Pragati Narrow;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #000000
+}
+
+.home{
+  position: absolute;
+  width: 51px;
+  height: 45px;
+  left: 100px;
+  top: 27px;
+  font-family: Pragati Narrow;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #000000;
+}
+
+.AboutUs{
+  position: absolute;
+  width: 76px;
+  height: 62px;
+  left: 175px;
+  top: 27px;
+  font-family: Pragati Narrow;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #000000;
+}
+
+.rectangle{
+  position: absolute;
+  width: 1152px;
+  height: 266px;
+  left: 0px;
+  top: 89px;
+  background: #C4C4C4;
+}
+
+.elipse{
+  position: absolute;
+  width: 210px;
+  height: 210px;
+  left: 471px;
+  top: 117px;
+  border-radius: 50%;
+  background: #E19999;
+}
+
+.team{
+  position: absolute;
+  width: 287px;
+  height: 170px;
+  left: 74px;
+  top: 372px;
+  font-family: Pragati Narrow;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 41px;
+  color: #000000;
+}
+
+.mission{
+  position: absolute;
+  width: 680px;
+  height: 286px;
+  left: 399px;
+  top: 375px;
+  font-family: Pragati Narrow;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 41px;
+  text-align: justify;
+  color: #000000;
+}
+
+.rectangle2{
+  position: absolute;
+  width: 280px;
+  height: 129px;
+  background: #C4C4C4;
+}
+
+.line{
+    position: absolute;
+    width: 301.52px;
+    height: 0px;
+    left: -12px;
+    top: 353px;
+    border: 1px solid #000000;
+    transform: rotate(25.12deg);
+}
+
+.line2{
+  position: absolute;
+  width: 301.52px;
+  height: 0px;
+  left: -12px;
+  top: 353px;
+  border: 1px solid #000000;
+  transform: rotate(-25.12deg);
+}
