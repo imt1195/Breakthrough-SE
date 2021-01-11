@@ -7,12 +7,15 @@
   top: 27px;
 }
 
+.logo{
+  top:5px;
+}
 .navteam{
   position: absolute;
   width: 47px;
   height: 62px;
   left: 275px;
-  top: 27px;
+  top: 5px;
   font-family: Pragati Narrow;
   font-style: normal;
   font-weight: normal;
@@ -25,7 +28,7 @@
   width: 51px;
   height: 45px;
   left: 100px;
-  top: 27px;
+  top: 5px;
   font-family: Pragati Narrow;
   font-style: normal;
   font-weight: normal;
@@ -38,7 +41,7 @@
   width: 76px;
   height: 62px;
   left: 175px;
-  top: 27px;
+  top: 5px;
   font-family: Pragati Narrow;
   font-style: normal;
   font-weight: normal;
